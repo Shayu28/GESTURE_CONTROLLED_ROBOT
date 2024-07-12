@@ -38,11 +38,11 @@ In summary, the hand gesture control robot using Arduino Lilypad, accelerometer,
 
 
 Future Scope:
-The robot is devised to have tremendous scopes in the future. The robot can be turned to for surveillance intentions and is particularly beneficial for a disabled individual, as that person can handle the control of the robot vehicle without any hardships in a wheelchair where the wheelchair can be navigated by the actions of the rider's hand. There are limitless possibilities so the technique has a lot of hereafter abilities. The device that has been constructed is on the cheaper flank and is manageable to carry from one spot to another.
+The robot is devised to have tremendous scopes in the future. The robot can be turned to for surveillance intentions and is particularly beneficial for a disabled individual, as that person can control the robot vehicle without any hardships in a wheelchair where the wheelchair can be navigated by the actions of the rider's hand. There are limitless possibilities so the technique has a lot of hereafter abilities. The device constructed is on the cheaper flank and is manageable to carry from one spot to another.
 
 
 Conclusion:
-The system's goal is to utilize an Arduino Lilypad and the specified components for the building of the gesture-controlled car. Simple hand actions can be used to make the robot move in any path. We have worked to take this system to the level that its response to the hand motion is well stabilized. Gesticulation control is a more genuine way of operating machines making the control of robots additionally efficient and uncomplicated.
+The system's goal is to utilize an Arduino Lilypad and the specified components for the building of the gesture-controlled car. Simple hand actions can make the robot move in any path. We have worked to take this system to the level that its response to the hand motion is well stabilized. Gesticulation control is a more genuine way of operating machines making the control of robots additionally efficient and uncomplicated.
 
 
 
